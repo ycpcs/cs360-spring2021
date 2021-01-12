@@ -14,6 +14,7 @@ Welcome to the website for CS 360, Analysis of Algorithms, at York College.  All
 * [Syllabus](syllabus.html)
 * [Schedule/Readings](schedule.html)
 * [Assignments](assign/index.html)
+* [Resources](resources.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
