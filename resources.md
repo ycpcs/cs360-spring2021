@@ -7,6 +7,7 @@ This page contains links to useful resources.
 
 -   [CLion](https://www.jetbrains.com/clion/) This is the IDE we will be using in this course. You will need to create an account using your YCP email to receive a free license.
 
+-   [CamScanner](https://www.camscanner.com/) This is a nice mobile scanner app to generate .pdf files.
 
 ## Windows 10
 

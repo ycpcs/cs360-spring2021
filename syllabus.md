@@ -101,7 +101,9 @@ Reading assignments are posted on the [course schedule](schedule.html). I expect
 
 Programming assignments will consist of written questions along with occasional implementation of *pseudocode* algorithmic solutions to the problems. Collaboration on homework assignments is encouraged, but each student must submit their own solutions that demonstrate their understanding of the material.
 
-Homework assignments will be collected at the **beginning** of class. Late assignments will be marked down 20% per day late. **No credit will be given for assignments that are more than three (3) days late.**
+All homework assignments will be submitted as **a single .pdf** to Canvas. If you have handwritten solutions, **PLEASE USE A SCANNER APP** to generate the .pdf. **You are responsible for ensuring your submission is legible.** 
+
+Late assignments will be marked down 20% per day late. **No credit will be given for assignments that are more than three (3) days late.**
 
 ### Empirical Comparison Report
 
@@ -113,7 +115,9 @@ Several homework assignments will include implementation of various sorting algo
 
 **You must receive a score of 70+ on AT LEAST ONE exam to earn a passing grade for the course.**
 
-Exams will be entirely take-home. You will be allowed to use all the resources from the course including the textbook, lecture notes, example problems/solutions, and homework solutions.
+Exams will be entirely take-home. You will be allowed to use all the resources from the course including the textbook, lecture notes, example problems/solutions, and homework solutions. All exams will be submitted as **a single .pdf** to Canvas. If you have handwritten solutions, **PLEASE USE A SCANNER APP** to generate the .pdf. **You are responsible for ensuring your submission is legible.**
+
+**No credit will be given for late exams.**
 
 ### Final Project
 
