@@ -34,11 +34,11 @@ Merge sort implementation.
 
 **Implementation**
 
-A skeleton project is provided in [CS360\_MergeSort.zip](../assign/src/CS360_MergeSort.zip). The zip file contains both a Visual Studio project and a Linux/OSX makefile to compile the code. **MergeSort.cpp** contains the main routine as well as empty sort function stubs - you should not need to modify **main()** or *any* of the utility functions.
+A skeleton project is provided in [CS360\_MergeSort.zip](../assign/src/CS360_MergeSort.zip). The zip file contains a [CLion](https://www.jetbrains.com/clion/) project. **mergeSorter.cpp** contains the main routine as well as empty sort function stubs - you should not need to modify **main()** or *any* of the utility functions.
 
 > -   For each input size, the program generates a *random* array **D[]**
 > -   **D[]** is copied into the array **A[]** *prior* to each sorting function call (such that each sort works on the *same* data sets)
-> -   You may wish to uncomment the **print\_array()** call after writing each sort to test your code for **n**=16 and **NUM\_AVG**=1 to verify the sort is working correctly
+> -   A checking function will verify correct operation of your sorting implementation and halt the program if it produces incorrectly sorted output.
 > -   Since C++ does not have an **A.length** member variable, I have included a function called **length(A)** which will return the length of the array (which is stored in **A[0]**)
 > -   All arrays have been expanded by 1 (with appropriate adjustments to any loops) to agree with the pseudocode from the book where array indices range from **A[1]** -\> **A[n]**
 
@@ -46,16 +46,14 @@ A skeleton project is provided in [CS360\_MergeSort.zip](../assign/src/CS360_Mer
 
 Implement the sort algorithm *as given in the pseudocode below* for merge sort. Insert counter increment statements (note: a **count** global variable is provided), into each sorting function for each *executable* line of *pseudocode* (e.g. count all three lines required to implement a swap as a *single* operation). Use this counter to *empirically* measure the runtime of each sort. Only increment the counter for statements *within* the sorting functions, i.e. do not include any initialization overhead incurred in **main()** or the utility functions. Note that **count** is reset prior to each sort call but the results are stored in a 3D array **counter** which is used to display a table of all results once all the sorts and runs have completed.
 
-Generate runs for 13 input sizes by changing the **\#define MAX\_RUNS** symbolic constant from 1 to 13. This will generate data for increasing powers of 2 from 2<sup>4</sup> = 16 to 2<sup>16</sup> = 65536.
-
-The **\#define NUM\_AVG** sets the number of data sets of each size to generate in order to compute an *average* runtime for random arrays of each size. Once you are confident your sorting code is working, this value should be set to a reasonable number, e.g. 10, to give a good approximation of the *average* runtime of each sort. Note that the larger the value that is chosen, the longer the program will take to run.
+The program will generate output data for 13 input sizes using increasing powers of 2 from 2<sup>4</sup> = 16 to 2<sup>16</sup> = 65536. The program will also generate **\#define NUM\_AVG** sets of data for each size in order to compute an *average* runtime for random arrays of each size.
 
 The program will run each sort for each input *size* with elements randomly generated from *two* different input *ranges* 
 
 > -   The large range contains elements in the range [1 -\> 32768]
 > -   The small range contains elements in the range [1 -\> 1024]
 
-Once the data for all input sizes and both ranges and element ranges have been generated, the program will produce a comma separated table of output. Use this table to make a *meaningful* plot (e.g. using Excel) of the data showing *important* characteristics. In particular:
+Once the data for all input sizes and both ranges and element ranges have been generated, the program will produce a comma separated table of output in the console and a corresponding **output.csv** file in the **bin** subdirectory. Use this data to make a *meaningful* plot (e.g. using Excel) of the data showing *important* characteristics. In particular:
 
 > -   Plot number of inputs *n* vs. empirical average runtimes as **data points** for both element ranges
 > -   Show the *best fit* asymptotic **curves** for **cn lg n** appropriate for the sort. Determine an *approximate* value of **c** (to the nearest 0.5) for each element range that fits the actual data relatively well. (Hint: Simply manually choose values for each **c** and plot the corresponding asymptotic curve until it fits the data *reasonably* well, i.e. you do not need to mathematically find the "best-fit" values.)
