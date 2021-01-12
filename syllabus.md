@@ -101,6 +101,8 @@ Reading assignments are posted on the [course schedule](schedule.html). I expect
 
 Programming assignments will consist of written questions along with occasional implementation of *pseudocode* algorithmic solutions to the problems. Collaboration on homework assignments is encouraged, but each student must submit their own solutions that demonstrate their understanding of the material.
 
+Each student will self-assess their assignment solutions using the posted solutions making corrections **in red ink.**
+
 All homework assignments will be submitted as **a single .pdf** to Canvas. If you have handwritten solutions, **PLEASE USE A SCANNER APP** to generate the .pdf. **You are responsible for ensuring your submission is legible.** 
 
 Late assignments will be marked down 20% per day late. **No credit will be given for assignments that are more than three (3) days late.**
