@@ -35,4 +35,3 @@ Welcome to the website for CS 360, Analysis of Algorithms, at York College.  All
 * **Apr 30 - EXAM IV. Take home due Wed, May 5.** Upload a **SINGLE** pdf to Canvas by 11:59pm
 * **May 10, 12 - Final Project Presentations**
 * **May 12** - [Final Project Report](assign/finalproj.html) Due. Upload a **SINGLE** pdf to Canvas by 5:00pm
--->
