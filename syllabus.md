@@ -15,8 +15,8 @@ Office Hours: M 1-3pm, T 2-3pm, W 11am-12pm, R 8:30-9:30am, or by appointment
 
  Section  | Days |  Time       | Room    | Final Presentations
  -------- | ---- |  ---------- | ------- | ----------
-101       | MWF  | 9:00-9:50   | KEC 124 | Wed, May 12, 8:00-10:00
-102       | MWF  | 10:00-10:50 | KEC 124 | Mon, May 10, 10:15-12:15
+101       | MWF  | 9:00-9:50   | KEC 129 | Wed, May 12, 8:00-10:00
+102       | MWF  | 10:00-10:50 | KEC 129 | Mon, May 10, 10:15-12:15
 
 Course Description
 ------------------
