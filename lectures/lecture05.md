@@ -160,7 +160,7 @@ Solve the recursive equation
 >
 > > **f(n) = 2nlgn = Ω(n<sup>log<sub>b</sub>a + ε</sup>) = Ω(n<sup>0.79 + ε</sup>)**
 >
-> which (since *2nlgn = Ω(n)*) is satisfied for any ε ≤ 0.21, e.g. choose ε = 0.2 giving *2nlgn = Ω(n<sup>0.79 + 0.2</sup>) = O(n<sup>0.99</sup>)*. Hence the equation **might** satisfies *Case 3* if we can show the regularity condition
+> which (since *2nlgn = Ω(n)*) is satisfied for any ε ≤ 0.21, e.g. choose ε = 0.2 giving *2nlgn = Ω(n<sup>0.79 + 0.2</sup>) = Ω(n<sup>0.99</sup>)*. Hence the equation **might** satisfies *Case 3* if we can show the regularity condition
 >
 > **af(n/b) ≤ cf(n)** for *c < 1*
 >
