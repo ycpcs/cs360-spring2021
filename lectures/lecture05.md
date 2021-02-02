@@ -128,7 +128,7 @@ Solve the recursive equation
 > 
 > **4.** We see that *f(n) = c "≈" 1* so we try to show *Case 2*, i.e.
 >
->> **f(n) = c = O(n<sup>log<sub>b</sub>a</sup>) = O(1)**
+>> **f(n) = c = Θ(n<sup>log<sub>b</sub>a</sup>) = Θ(1)**
 >
 > which is satisfied. Hence the equation satisfies *Case 2* so we can give the solution as
 >
