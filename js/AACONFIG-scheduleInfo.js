@@ -18,7 +18,7 @@ courseInfo.classPeriods = [
 		reading: "Ch. 3",
 	},
 	{
-		topic: new DoubleTopic("Lecture 4: Merge Sort", "lectures/lecture04.html", "Assignment 1 Due", "assign/assign01.html"),
+		topic: new TripleTopic("Lecture 4: Merge Sort", "lectures/lecture04.html", "Merge Sort Pseudocode", "handouts/lecture04-mergealg.pdf", "Assignment 1 Due", "assign/assign01.html"),
 		reading: "Ch. 2.3",
 	},
 //	{
