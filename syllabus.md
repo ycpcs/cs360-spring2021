@@ -71,8 +71,8 @@ Policies
 
 Your overall grade for the course will be determined as follows:
 
--   Homework assignments: 10%
--   Midterm empirical comparison report: 10%
+-   Homework assignments: 14%
+-   Midterm empirical comparison report: 6%
 -   Midterm exams: 65%
 -   Final project: 15%
 
