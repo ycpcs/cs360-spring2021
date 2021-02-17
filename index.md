@@ -24,7 +24,7 @@ Welcome to the website for CS 360, Analysis of Algorithms, at York College.  All
 * **Feb 19 - EXAM I. Take home due Wed, Feb 24.** Upload a **SINGLE** pdf to Canvas by 11:59pm
 * **Mar 3** - [Assignment 3](assign/assign03.html) Due
 * **Mar 9** - [Empirical Comparison Report](assign/emp_comp.html) Due. Upload a **SINGLE** pdf to Canvas by 11:59pm
-* **Mar 10 - NO CLASS (Spartan Day)**
+* **Mar 10 - NO CLASS (Wellness Day)**
 * **Mar 12 - EXAM II. Take home due Wed, Mar 17.** Upload a **SINGLE** pdf to Canvas by 11:59pm
 * **Mar 26** - [Assignment 4](assign/assign04.html) Due
 * **Apr 2 - NO CLASS (Good Friday)**
