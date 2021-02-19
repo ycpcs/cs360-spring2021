@@ -41,15 +41,15 @@ courseInfo.classPeriods = [
 		topic: new Topic("** Exam 1 - Takehome Due Wed Feb 24", "")
 	},
 	{
-		topic: new Topic("Lecture 7: Heapsort", "lectures/lecture07.html"),
+		topic: new DoubleTopic("Lecture 7: Heapsort", "lectures/lecture07.html", "Heap Sort Pseudocode", "handouts/lecture07-heapalg.pdf"),
 		reading: "Ch. 6",
 	},
 	{
-		topic: new Topic("Lecture 8: Quicksort", "lectures/lecture08.html"),
+		topic: new DoubleTopic("Lecture 8: Quicksort", "lectures/lecture08.html", "Quick Sort Pseudocode", "handouts/lecture08-quickalg.pdf"),
 		reading: "Ch. 7",
 	},
 	{
-		topic: new Topic("Lecture 9: Linear Sorting", "lectures/lecture09.html"),
+		topic: new DoubleTopic("Lecture 9: Linear Sorting", "lectures/lecture09.html", "Counting Sort Pseudocode", "handouts/lecture09-countalg.pdf"),
 		reading: "Ch. 8",
 	},
 //	{
@@ -57,11 +57,11 @@ courseInfo.classPeriods = [
 //		reading: "Ch. 8",
 //	},
 	{
-		topic: new Topic("Lecture 12: Dynamic Programming - Rod Cutting", "lectures/lecture12.html"),
+		topic: new DoubleTopic("Lecture 12: Dynamic Programming - Rod Cutting", "lectures/lecture12.html", "Rod Cutting Pseudocode", "handouts/lecture12-rodcutalg.pdf"),
 		reading: "Ch. 15",
 	},
 	{
-		topic: new DoubleTopic("Lecture 12: Dynamic Programming - Rod Cutting cont.", "lectures/lecture12.html", "Assignment 3 Due", "assign/assign03.html"),
+		topic: new TripleTopic("Lecture 12: Dynamic Programming - Rod Cutting cont.", "lectures/lecture12.html", "Rod Cutting Example", "handouts/lecture12-rodcutex.pdf", "Assignment 3 Due", "assign/assign03.html"),
 		reading: "Ch. 15",
 	},
 	{
