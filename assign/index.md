@@ -14,7 +14,7 @@ This page links to assignment descriptions.
 > Feb 10   | [Assignment 1](../assign/assign01.html)                  | [Assignment 1 Solutions](../assign/sol/assign01sol.pdf) |
 > Feb 17   | [Assignment 2](../assign/assign02.html)                  | [Assignment 2 Solutions](../assign/sol/assign02sol.pdf) |
 > Mar 3    | [Assignment 3](../assign/assign03.html)                  |  |
-> Mar 9   | [Empirical Comparison Report](../assign/emp_comp.html)   | **Upload .pdf to Canvas** |
+> Mar 11   | [Empirical Comparison Report](../assign/emp_comp.html)   | **Upload .pdf to Canvas** |
 > Mar 26   | [Assignment 4](../assign/assign04.html)                  |  |
 > Apr 5    | [Assignment 5](../assign/assign05.html)                  |  |
 > Apr 21   | [Assignment 6](../assign/assign06.html)                  |  |

@@ -69,7 +69,7 @@ courseInfo.classPeriods = [
 		reading: "",
 	},
 	{
-		topic: new DoubleTopic("Exam 2 Review", "", "Empirical Comparison Report Due - Tues Mar 9", "assign/emp_comp.html"),
+		topic: new DoubleTopic("Exam 2 Review", "", "Empirical Comparison Report Due - Thur Mar 11", "assign/emp_comp.html"),
 		reading: "",
 	},
 	{
