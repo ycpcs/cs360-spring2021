@@ -3,7 +3,7 @@ layout: default
 title: "Empirical Comparison Report"
 ---
 
-**Tuesday, March 9th by 11:59pm** Late assignments will be penalized 20% per day.
+**Thursday, March 11th by 11:59pm** Late assignments will be penalized 20% per day.
 
 Empirical Sorting Comparison
 ----------------------------
