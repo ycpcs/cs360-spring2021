@@ -76,7 +76,7 @@ courseInfo.classPeriods = [
 		topic: new Topic("** Exam 2 - Takehome Due Wed Mar 17", "")
 	},
 	{
-		topic: new Topic("Lecture 13: Dynamic Programming - LCS", "lectures/lecture13.html"),
+		topic: new DoubleTopic("Lecture 13: Dynamic Programming - LCS", "lectures/lecture13.html", "LCS Example", "handouts/lecture13-LCSex.pdf"),
 		reading: "Ch. 15",
 	},
 	{
@@ -84,7 +84,7 @@ courseInfo.classPeriods = [
 		reading: "Ch. 15",
 	},
 	{
-		topic: new Topic("Lecture 14: Greedy Algorithms - Activity Selection", "lectures/lecture14.html"),
+		topic: new DoubleTopic("Lecture 14: Greedy Algorithms - Activity Selection", "lectures/lecture14.html", "Activity Selection Example", "handouts/lecture14-actselex.pdf"),
 		reading: "Ch. 16",
 	},
 	{
