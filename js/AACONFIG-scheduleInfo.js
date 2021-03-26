@@ -96,7 +96,7 @@ courseInfo.classPeriods = [
 		reading: "Ch. 22.2",
 	},
 	{
-		topic: new SixTopic("Lecture 17: Depth-First Search", "lectures/lecture17.html", "DFS Example", "DFS Pseudocode", "handouts/lecture17-dfsalg.pdf", "handouts/lecture17-dfsex.pdf", "DFS Practice Activity", "handouts/lecture17-dfsact.pdf", "DFS Solution", "handouts/lecture17-dfsact-sol.pdf", "Assignment 4 Due", "assign/assign04.html"),
+		topic: new SixTopic("Lecture 17: Depth-First Search", "lectures/lecture17.html", "DFS Pseudocode", "handouts/lecture17-dfsalg.pdf", "DFS Example", "handouts/lecture17-dfsex.pdf", "DFS Practice Activity", "handouts/lecture17-dfsact.pdf", "DFS Solution", "handouts/lecture17-dfsact-sol.pdf", "Assignment 4 Due", "assign/assign04.html"),
 		reading: "Ch. 22.3"
 	},
 	{
