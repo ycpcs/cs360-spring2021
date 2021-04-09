@@ -104,7 +104,7 @@ courseInfo.classPeriods = [
 		reading: "Ch. 22.4&ndash;22.5",
 	},
 	{
-		topic: new FourTopic("Lecture 19: Minimum Spanning Trees - Kruskal", "lectures/lecture19.html", "Kruskal Example", "handouts/lecture19-Kruskalex.pdf", "Kruskal Practice Activity", "handouts/lecture19-Kruskalact.pdf", "Kruskal Solution", "handouts/lecture19-Kruskalactsol.pdf"),
+		topic: new FiveTopic("Lecture 19: Minimum Spanning Trees - Kruskal", "lectures/lecture19.html", "Kruskal Pseudocode", "handouts/lecture19-Kruskalalg.pdf", "Kruskal Example", "handouts/lecture19-Kruskalex.pdf", "Kruskal Practice Activity", "handouts/lecture19-Kruskalact.pdf", "Kruskal Solution", "handouts/lecture19-Kruskalactsol.pdf"),
 		reading: "Ch. 23.1",
 	},
 	{
@@ -115,15 +115,15 @@ courseInfo.classPeriods = [
 		topic: new Topic("** Exam 3 - Takehome Due Mon Apr 12", "")
 	},
 	{
-		topic: new FourTopic("Lecture 20: Minimum Spanning Trees - Prim", "lectures/lecture20.html", "Prim Example", "handouts/lecture20-Primex.pdf","Prim Practice Activity", "handouts/lecture20-Primact.pdf", "Prim Solution", "handouts/lecture20-Primactsol.pdf"),
+		topic: new FiveTopic("Lecture 20: Minimum Spanning Trees - Prim", "lectures/lecture20.html", "Prim Pseudocode", "handouts/lecture20-Primalg.pdf", "Prim Example", "handouts/lecture20-Primex.pdf","Prim Practice Activity", "handouts/lecture20-Primact.pdf", "Prim Solution", "handouts/lecture20-Primactsol.pdf"),
 		reading: "Ch. 23.2",
 	},
 	{
-		topic: new DoubleTopic("Lecture 21: Shortest Path - Bellman-Ford", "lectures/lecture21.html", "Bellman-Ford Example", "handouts/lecture21-BellmanFordex.pdf"),
+		topic: new TripleTopic("Lecture 21: Shortest Path - Bellman-Ford", "lectures/lecture21.html", "Bellman-Ford Pseudocode", "handouts/lecture21-BellmanFordalg.pdf", "Bellman-Ford Example", "handouts/lecture21-BellmanFordex.pdf"),
 		reading: "Ch. 24.1&ndash;24.2",
 	},
 	{
-		topic: new FiveTopic("Lecture 22: Shortest Path - Dijkstra", "lectures/lecture22.html", "Dijkstra Example", "handouts/lecture22-Dijkstraex.pdf", "Lecture 23: Shortest Path - Floyd-Warshall", "lectures/lecture23.html", "SSSP Practice Activity", "handouts/lecture22-ssspact.pdf", "SSSP Solution", "handouts/lecture22-ssspactsol.pdf"),
+		topic: new SixTopic("Lecture 22: Shortest Path - Dijkstra", "lectures/lecture22.html", "Dijkstra Pseudocode", "handouts/lecture22-Dijkstraalg.pdf", "Dijkstra Example", "handouts/lecture22-Dijkstraex.pdf", "Lecture 23: Shortest Path - Floyd-Warshall", "lectures/lecture23.html", "SSSP Practice Activity", "handouts/lecture22-ssspact.pdf", "SSSP Solution", "handouts/lecture22-ssspactsol.pdf"),
 		reading: "Ch. 24.3",
 	},
 	{
@@ -131,7 +131,7 @@ courseInfo.classPeriods = [
 		reading: "Ch. 26.1",
 	},
 	{
-		topic: new FourTopic("Lecture 25: Maximal Flow- Ford-Fulkerson", "lectures/lecture25.html", "Ford-Fulkerson (Edmonds-Karp) Example", "handouts/lecture25-FordFulkersonex.pdf", "Max Flow Practice Activity", "handouts/lecture25-maxflowact.pdf", "Max Flow Solution", "handouts/lecture25-maxflowactsol.pdf"),
+		topic: new FiveTopic("Lecture 25: Maximal Flow- Ford-Fulkerson", "lectures/lecture25.html", "Ford-Fulkerson Pseudocode", "handouts/lecture25-FordFulkersonalg.pdf", "Ford-Fulkerson (Edmonds-Karp) Example", "handouts/lecture25-FordFulkersonex.pdf", "Max Flow Practice Activity", "handouts/lecture25-maxflowact.pdf", "Max Flow Solution", "handouts/lecture25-maxflowactsol.pdf"),
 		reading: "Ch. 26.2",
 	},
 	{
