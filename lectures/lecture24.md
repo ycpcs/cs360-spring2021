@@ -39,7 +39,7 @@ A *residual network* is an *induced graph* that contains edges that can admit mo
 
 > ![image](images/lecture24/ResidualCapacity.png)
 
-Thus the residual network consists of the edges for which *c*<sub>f</sub>(*u*,*v*) \> 0. Note that for an edge to appear in the residual network, either (*u*,*v*) or (*v*,*u*) must be in the original network.
+Thus the residual network consists of the edges for which *c*<sub>f</sub>(*u*,*v*) \> 0. Note that as flow is increased along edges in the original graph, reverse edges need to be added to the residual network in the opposite direction. This will allow for "decreasing" the flow along an edge in the original network.
 
 Augmenting Paths
 ================
