@@ -126,5 +126,5 @@ The optimal tour is shown below in red. The approximate tour has cost ≈ 19.1 w
 
 > ![image](images/lecture29/ApproxTSP4.png)
 
-Another strategy that can also be shown to be a 2-approximation algorithm is a greedy approach where we simply start at any vertex and proceed by choosing the next closest vertex from the current one (from the ones that have not yet been visited) and inserting it into the tour.
+Another strategy that can also be shown to be a 2-approximation algorithm is a greedy approach where we simply start at any vertex and proceed by choosing the next closest vertex to any of those currently in the partial tour (from the ones that have not yet been visited) and inserting it into the tour.
 
